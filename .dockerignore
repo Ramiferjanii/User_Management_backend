@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+Dockerfile
+.dockerignore
+dist
+.env
+.env.*
+.git
+.gitignore
+**/*.ts
+
+# Editor/OS
+.vscode
+.idea
+.DS_Store
+Thumbs.db
