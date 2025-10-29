@@ -7,7 +7,6 @@ dist
 .env.*
 .git
 .gitignore
-**/*.ts
 
 # Editor/OS
 .vscode
