@@ -1,0 +1,18 @@
+node_modules
+npm-debug.log
+dist
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Editor/OS
+.vscode
+.idea
+*.swp
+*.swo
+
+# Build output
+build
+*.log
+
